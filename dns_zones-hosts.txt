@@ -1,7 +1,7 @@
 95.217.77.151 available.gs.nintendowifi.net
 167.86.108.126 axing.nintendowifi.net
 167.86.108.126 cfh.wapp.wii.com
-69.25.139.140 conntest.nintendowifi.net
+198.62.122.140 conntest.nintendowifi.net
 195.201.236.139 dls1.ilostmymind.xyz
 178.62.43.212 ds.pokemon-gl.com
 178.62.43.212 en-ds.pokemon-gl.com
@@ -26,7 +26,7 @@
 167.86.108.126 miicontestp.wapp.wii.com
 167.86.108.126 ms.nintendo-europe.com
 104.248.0.110 nas.nintendowifi.net
-78.46.231.155 naswii.nintendowifi.net
+178.62.43.212 naswii.nintendowifi.net
 95.217.77.151 natneg1.gs.nintendowifi.net
 94.130.8.215 natneg2.gs.nintendowifi.net
 94.130.48.222 natneg3.gs.nintendowifi.net
